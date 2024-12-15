@@ -1,0 +1,25 @@
+img{
+width: 220px;
+float: left;
+padding: 10px;
+}
+header{
+    background-image: url(https://thumbs.dreamstime.com/b/coffee-mug-background-vector-illustration-copyspace-33949822.jpg);
+}
+a{
+color: aqua;
+}
+h1{
+color: greenyellow;
+}
+article{
+background-color: brown;
+color:bisque;
+}
+body{
+background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/coffee-beans-background-ozgurcankaya.jpg);
+}
+footer{
+background-color: black;
+color: azure;
+}
